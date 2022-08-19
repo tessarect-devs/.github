@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="soon" target="_blank">
+    <a href="Logo" target="_blank">
         <img src="./tessarectnewround.png" width="200">
     </a>
 </p>
