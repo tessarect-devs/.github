@@ -1,6 +1,6 @@
 <p align="center">
     <a href="Logo" target="_blank">
-        <img src="./tessarectnewround.png" width="200">
+        <img src="https://raw.githubusercontent.com/tessarect-devs/.github/main/profile/tessarectnewround.png" width="200">
     </a>
 </p>
 
