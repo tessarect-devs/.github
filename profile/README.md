@@ -4,6 +4,7 @@
 </a>
 
 # Tessarect
+## Organisation for Tessarect Discord Bot
 [![Latest release](https://img.shields.io/github/v/release/aregtech/areg-sdk?label=%20%F0%9F%93%A3%20Latest%20release&style=flat&logoColor=b0c0c0&labelColor=363D44)](https://dsc.gg/tessarect)
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
