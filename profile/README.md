@@ -3,10 +3,7 @@
     <img src="https://raw.githubusercontent.com/prakarsh17/TessarectWebsite/main/assets/img/tessarectnewround.png" alt="Tessarect logo" title="Tessarect" align="right" height="200" />
 </a>
 
-# Tessarect Discord Bot 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&color=FFFF33&height=100&lines=Beep+Boop+!+Hello+this+is+Tessarect;An+advance+and+powerful+bot+;Developed+chiefly+by+prakarsh17+)](https://git.io/typing-svg)
-
+# Tessarect
 [![Latest release](https://img.shields.io/github/v/release/aregtech/areg-sdk?label=%20%F0%9F%93%A3%20Latest%20release&style=flat&logoColor=b0c0c0&labelColor=363D44)](https://dsc.gg/tessarect)
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
